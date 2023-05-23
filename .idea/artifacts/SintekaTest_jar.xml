@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SintekaTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SintekaTest_jar</output-path>
+    <root id="archive" name="SintekaTest.jar">
+      <element id="module-output" name="SintekaTest" />
+    </root>
+  </artifact>
+</component>
